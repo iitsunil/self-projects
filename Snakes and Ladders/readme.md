@@ -1,3 +1,6 @@
+•	Developed a classic Snakes and Ladders multiplayer game in python by importing random module
+•	Applied all rules of the snake and Ladders game where players can roll the dice in their own turn  
+
 # Rules to play Snakes and Ladders Game
 1. Board is a grid of 10*10 grid of 100 squares
 2. Played by 2, 3 or 4 players
