@@ -2,3 +2,4 @@
 1. Password-Validation
 2. Snakes and Ladders Game
 3. Students grade prediction using Machine Learning 
+4. Diabetes Prediction using Machine Learning
