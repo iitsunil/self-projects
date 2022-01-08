@@ -1,5 +1,5 @@
 # Project 3 : Snakes and Ladders
-# By Sunil
+
 
 import random
 from player import Player
